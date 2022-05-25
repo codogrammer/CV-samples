@@ -1,4 +1,5 @@
 # CV-samples
-more templates at https://www.free-css.com/template-categories/portfolio and https://templatemo.com/tag/portfolio 
+همچنین میتوانید تمپلیت های بیشتری در این دو لینک پیدا کنید=>
+[link1](https://www.free-css.com/template-categories/portfolio) و [link2](https://templatemo.com/tag/portfolio) 
 
-you can send us the link of the CV and we will customize it for you. 
+سپس میتوانید لینک سی وی مورد نظرتان را برای ما بفرستید تا برایتان شخصی سازی شود.
